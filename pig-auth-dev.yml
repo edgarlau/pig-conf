@@ -20,8 +20,8 @@ spring:
       
 pig:
   auth:
-    clientId: pig
-    clientSecret: pig
+    clientId: ENC(Ho5VxMWMMIzfIEE8/WxVzA==)   //pig
+    clientSecret: ENC(Ho5VxMWMMIzfIEE8/WxVzA==)   //pig
     scope: server
   social:
     qq:
